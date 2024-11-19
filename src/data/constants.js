@@ -184,7 +184,7 @@ export const Bio = {
       member: [
         {
           name: "Megha Praveen",
-          img: "http://localhost:3000/static/media/hero-img.8b33f48e8117cfa53924.jpg",
+          img: "https://media.licdn.com/dms/image/v2/D5603AQHCMSI5HfbAsw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730440541129?e=1737590400&v=beta&t=szkb4ut3rVwQvA2NNPxURWWXtZYjRZYu1kb0YpX0sWk",
           linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
           github: "https://github.com/rishavchanda/",
         },
@@ -223,7 +223,7 @@ export const Bio = {
       member: [
         {
           name: "Rishav Chanda",
-          img: "http://localhost:3000/static/media/hero-img.8b33f48e8117cfa53924.jpg",
+          img: "https://media.licdn.com/dms/image/v2/D5603AQHCMSI5HfbAsw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730440541129?e=1737590400&v=beta&t=szkb4ut3rVwQvA2NNPxURWWXtZYjRZYu1kb0YpX0sWk",
           linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
           github: "https://github.com/rishavchanda/",
         },
